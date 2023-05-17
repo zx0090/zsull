@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b90b76ad.css",
+    "main.js": "/static/js/main.031fa1be.js",
+    "static/media/olshop.jpg": "/static/media/olshop.6d308e27c579f3e469ff.jpg",
+    "static/media/thanos.jpg": "/static/media/thanos.a61292ad3a39e81c6046.jpg",
+    "static/media/profileImage.jpeg": "/static/media/profileImage.789503aba5e41217b45f.jpeg",
+    "index.html": "/index.html",
+    "main.b90b76ad.css.map": "/static/css/main.b90b76ad.css.map",
+    "main.031fa1be.js.map": "/static/js/main.031fa1be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b90b76ad.css",
+    "static/js/main.031fa1be.js"
+  ]
+}
